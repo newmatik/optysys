@@ -1,0 +1,5 @@
+.venv
+.vscode
+Graphviz
+Algorithm/__pycache__
+__pycache__

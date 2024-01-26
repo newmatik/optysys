@@ -1,0 +1,4512 @@
+names:
+- -capacitor jumper- CJ1
+- -capacitor jumper- CJ2
+- -component text- - CC BE 10000000-
+- -component text- -0 1 2 3 4 5 6 7-
+- -component text- -0 N-
+- -component text- -0001 5293 170A-
+- -component text- -0123456789ABCDEF-
+- -component text- -021 LDBM N389-
+- -component text- -0821-1X1T-43-F 1402 WM-
+- -component text- -0833 LTC2274 UJ BT267910-
+- -component text- -085811 B4T EHCR-
+- -component text- -1 2 3 4 5 6 7 8-
+- -component text- -1 2 3 4-
+- -component text- -1 2 3-
+- -component text- -1 2-
+- -component text- -100 25V UT-
+- -component text- -100 50V UT-
+- -component text- -100 6V-
+- -component text- -100 CFK 7BD-
+- -component text- -100 CFK- 7BD-
+- -component text- -100 VFK- 87-
+- -component text- -100 VFK- 8R7-
+- -component text- -106 10V-
+- -component text- -106 16K 129-
+- -component text- -106 6K 340-
+- -component text- -106C M062P-
+- -component text- -106C M06ZP-
+- -component text- -106C P3705-
+- -component text- -107C N48Y2-
+- -component text- -11702 81100-
+- -component text- -12-000-
+- -component text- -12CWQ06FN I R202G AU 22-
+- -component text- -15 203-
+- -component text- -150 CFK- 0C7-
+- -component text- -150 CFK-0C7-
+- -component text- -16 105-
+- -component text- -2 G-
+- -component text- -203 8700 DKG-
+- -component text- -22Y 6K 313-
+- -component text- -2306KE TDA 5-
+- -component text- -233 834DA-
+- -component text- -24-0C73-
+- -component text- -24LC1281 8Ne30840 UDB-
+- -component text- -25000 M11-
+- -component text- -25P32V6G 78565 VS PHL 4144-
+- -component text- -25P32V6P 78646 V5 PHL 110-
+- -component text- -25Q03213 E4O0222A-
+- -component text- -25Q064A 13E40 e4 99 CHN 6044316LJ4-
+- -component text- -25R03213 E400222A-
+- -component text- -2R5SA 6 3913J-
+- -component text- -3 J-
+- -component text- -3 Y-
+- -component text- -309 LL6-
+- -component text- -311 325 B330A-
+- -component text- -33 25N3-
+- -component text- -3350 1200-
+- -component text- -3350 R 1200-
+- -component text- -336 10K 343-
+- -component text- -336 16K 412-
+- -component text- -336 16k 412-
+- -component text- -337 6K 146-
+- -component text- -337G 90201-
+- -component text- -430-0030-01 0D 211430704700-
+- -component text- -47 25S- T85-
+- -component text- -47-10 P9 2-
+- -component text- -476 10V-
+- -component text- -4A377 D9PXV-
+- -component text- -4JH12 D9MDR-
+- -component text- -56P08-08-
+- -component text- -6 M-
+- -component text- -687 6K 206-
+- -component text- -687 6K 343-
+- -component text- -697 6K 206-
+- -component text- -7101 C-K USA-
+- -component text- -747844-2-
+- -component text- -7506 1215-
+- -component text- -820 RC454-
+- -component text- -821 RC45-
+- -component text- -82C1 RC454-
+- -component text- -93AA66CI SN 1103 DE0-
+- -component text- -93C4681 SNe31478 4H7-
+- -component text- -9X-1-472-
+- -component text- -ABL0 L548-
+- -component text- -ABLQ L548-
+- -component text- -ADUM2401 CRWZ -0847 1559234-1-
+- -component text- -AEL19-2 0316-
+- -component text- -ALTERA Cyclone V 5CEBA4F23C8N F BABAU1337A TAIWAN NABAU303016
+  301FA3T0A-
+- -component text- -ALTERA Cyclone V 5CEBA4U15C8N F CABAU1337A KOREA NABAU303013 301FA3DOB-
+- -component text- -B2L1 RC45-
+- -component text- -B4AC L698-
+- -component text- -BROADCOM BCM2837RIFBG TN1545 P11 552641-31 N3 W-
+- -component text- -BU2 GP541-
+- -component text- -Bel Stewart-
+- -component text- -CTD23CB3 100M0000 1331 313-
+- -component text- -CX104BB 30- 000M TCY1151-
+- -component text- -CX104BB 50- 000M TCY1121-
+- -component text- -CY7C68013A- 100AXC TWN0625 B 04 636397-
+- -component text- -DAV88 808V0-
+- -component text- -E EG 2121 156 250 P OHPA26KS-
+- -component text- -E EG-2121 200 000P OHPA42AA-
+- -component text- -E EG-2121 200-00P OHPA31KS-
+- -component text- -E EG-2121 250 000P OHPA428A-
+- -component text- -E EG-2121 250 000P OHPA42BA-
+- -component text- -E10 242-
+- -component text- -ELPIDA 88132B4PB-90-F 16020R15300-
+- -component text- -EN5322 E020MC H337-
+- -component text- -EN5322 E02BSC-
+- -component text- -EN5335QI E01MD U140-
+- -component text- -EN5336QI E02CN U330-
+- -component text- -EPCQ32M Q245A-
+- -component text- -FCC ID- NKRM14A2A Made In China-
+- -component text- -FCCID- QV5MERCURY6E IC- 5407-MERCURY6E-
+- -component text- -FM22LD16-55-BG G 615811 1619 TWN-
+- -component text- -FP16AB LVT162244-
+- -component text- -FTDI 1238-C D6LNL-1 FT2232HL-
+- -component text- -FTDI FT2232D 1313-
+- -component text- -HALO FastJackTM HFJ11-S050E 0231-
+- -component text- -HanRun HR911105A 1706-GX-
+- -component text- -J33-000 MPC 0J-
+- -component text- -K0 337 6K 321-
+- -component text- -KO 337 6K 321-
+- -component text- -KS245 19K04 CK6Z-
+- -component text- -L9-
+- -component text- -LC32 13K E1K0-
+- -component text- -LCX 591 PWER-
+- -component text- -LT 0044 LTC1628CG N25105-
+- -component text- -LTBRZ 1F24 e3-
+- -component text- -LTDQP 0HB2 e3-
+- -component text- -M 08E1512-NNP2 NHM3390-8JW 1236 A0P TW-
+- -component text- -M 1 1-
+- -component text- -M 106 10V-
+- -component text- -M R47M-
+- -component text- -MADE IN CHINA-
+- -component text- -MAXIM MAX2837 ETM 509 8SY03AK-
+- -component text- -MAXIM MAX3316E CUP 252-
+- -component text- -MAXIM MAX5864 ETM 405 BQGT1AA-
+- -component text- -MCC 5K22-
+- -component text- -MK64FN1M0VLL12 1N83J QCTDA1545A-
+- -component text- -MR2A1BAMA35 UCTCT8R13198-
+- -component text- -MXJ 588-
+- -component text- -MXU 58810-
+- -component text- -NXP LPC4320FBD144 SC3N9 04 9SD15070C-
+- -component text- -O N O J-
+- -component text- -O N-
+- -component text- -ON DIP-
+- -component text- -P1GAB LVT162244-
+- -component text- -PE9AH FDS 9926A-
+- -component text- -PTH05000 WAH 0404W701-
+- -component text- -PY 65-
+- -component text- -Port 1-
+- -component text- -Port 2-
+- -component text- -Port 3-
+- -component text- -Port 4-
+- -component text- -R- 337 6K 146-
+- -component text- -R- 337 6k 146-
+- -component text- -R30C-
+- -component text- -R50 0 D5L-
+- -component text- -R50-0 D6L-
+- -component text- -RJ9 117-5-
+- -component text- -RN5322 E00TEC H623-
+- -component text- -S15351 BMF020 1452-
+- -component text- -SAMSUNG 422 K7R323684M-FC20-
+- -component text- -SG8002CA 33-0000 -MAPCCS-
+- -component text- -SMSC 8728A 41150YA OTO e3-
+- -component text- -SMSC LAN951-JZX B1538-A1B17 538468A STA-SG-
+- -component text- -ST e4-
+- -component text- -Sipex 3223EIICY 0145-
+- -component text- -Sipex SP3243EHCA 0234-
+- -component text- -T240L 2R36-
+- -component text- -T250 VU4T-
+- -component text- -TDK-LAMBDA OC1R5-1205SR-E MADE IN JAPAN 8Z10-
+- -component text- -ThingMagic A DIVISION OF TRIMBLE M6e-
+- -component text- -VU81 T1 31 CBR1-
+- -component text- -VUBI TI 31 CGRI-
+- -component text- -W 201-
+- -component text- -WNC Model- M14A2A P-N- 60M14A21-DG1 S-N- G1XDG28000ACJ01 IMEI-
+  014666000031718-
+- -component text- -X250 V19N-
+- -component text- -XILINX ARTIXTM-7 XC7A100TTM FTG256ABX1449 D5040414A 1C TAIWAN
+  TAH495-00-00-
+- -component text- -XILINX SPARTAN XC3S400TM TQG144EGQ0825 S3604562A 4C-
+- -component text- -XILINX SPARTAN-6 XC6SLX45TM CSG324DIV1705 D5363994A 2C TAIWAN-
+- -component text- -XILINX SPARTAN-6 XC6SLX45TM FGG484CIV1145 D4317773A 2C TAIWAN-
+- -component text- -XILINX System ACETM XCCACE-TQ144I F0416T155 JAPAN-
+- -component text- -XILINX SystemACETM XCCACE-TQ144I F01150000 JAPAN-
+- -component text- -XILINX VIRTEX-II PRO XC2VP20TM FF1152BGB0333 D1276371A 6C PowerPC
+  PROCESSOR TAIWAN-
+- -component text- -XILINX VIRTEXTM-4 XC4VLX25TM FF668AGQ0433 DD14624A-KL151-04 10C-ES
+  TAIWAN-
+- -component text- -XILINX VIRTEXTM-5 XC5VLX30TM FFG324FGU1113 D4230227A 1C TAIWAN-
+- -component text- -XILINX XC2C64A VQG100AMS1201 F4339159A 7C-
+- -component text- -XILINX XC9536XLTM VQ44BEN0045 F1157941A 5C-
+- -component text- -XILINX XCV50TM TQ144AFP0049 A1165408A VIRTEX-
+- -component text- -XILINX ZYNQTM XC7Z010TM CLG400ACX1345 D4635668A 1C TAIWAN N6K363-R5-08-
+- -component text- -XILINXR SystemACETM XCCACE-TQ144I F0349S994 JAPAN-
+- -component text- -Y 102-
+- -component text- -Y 500-
+- -component text- -YF08E T1 63K A6QN-
+- -component text- -YJ612 T1 36K 0KRP-
+- -component text- -ZXMN 4A06-
+- -component text- -intel LXT972ALC A4 L224KB82 SINGAPORE-
+- -component text- 0
+- -component text- 000
+- -component text- 0348
+- -component text- 06Y
+- -component text- 0X01
+- -component text- 1
+- -component text- 10
+- -component text- 100
+- -component text- 1001
+- -component text- 1002
+- -component text- 1003
+- -component text- 101
+- -component text- 102
+- -component text- 1022
+- -component text- 103
+- -component text- 104
+- -component text- 105
+- -component text- 10R
+- -component text- 10R0
+- -component text- 1102
+- -component text- 1133
+- -component text- 1200
+- -component text- 1210
+- -component text- 13
+- -component text- 1500
+- -component text- 1503
+- -component text- 151
+- -component text- 152
+- -component text- 15375
+- -component text- 159
+- -component text- 16
+- -component text- 1601130
+- -component text- 161728
+- -component text- 195
+- -component text- 1AM
+- -component text- 1R0
+- -component text- 1X
+- -component text- 2
+- -component text- 2011
+- -component text- 202
+- -component text- 2022
+- -component text- 203C
+- -component text- 22
+- -component text- 220
+- -component text- 2201
+- -component text- 2202
+- -component text- 221
+- -component text- 222
+- -component text- 22R
+- -component text- 22R6
+- -component text- 2321
+- -component text- 24
+- -component text- 241
+- -component text- 241C
+- -component text- 24R0
+- -component text- 2612
+- -component text- 270
+- -component text- 2R2
+- -component text- 2R20
+- -component text- 2R2J
+- -component text- 3
+- -component text- 302282A
+- -component text- 308
+- -component text- 3100
+- -component text- 32
+- -component text- 330
+- -component text- 3300
+- -component text- 3302
+- -component text- 331
+- -component text- 332
+- -component text- 342C
+- -component text- 347C
+- -component text- 3592
+- -component text- 391
+- -component text- 4
+- -component text- 40115A
+- -component text- 4020
+- -component text- 470
+- -component text- 4700
+- -component text- 4701
+- -component text- 472
+- -component text- 473
+- -component text- 474
+- -component text- 4750
+- -component text- 4R7
+- -component text- 5
+- -component text- 505Y
+- -component text- 510
+- -component text- 512
+- -component text- 51C
+- -component text- 51R
+- -component text- 51R0
+- -component text- 51X
+- -component text- 560
+- -component text- 562
+- -component text- 6
+- -component text- 610
+- -component text- 68X
+- -component text- 7
+- -component text- 72258
+- -component text- 73B
+- -component text- 77660
+- -component text- 78
+- -component text- 798
+- -component text- 7Z25B
+- -component text- 810
+- -component text- 82
+- -component text- 820
+- -component text- 822
+- -component text- A
+- -component text- A060C3C
+- -component text- A7W58
+- -component text- ABD
+- -component text- B79
+- -component text- BK5LF
+- -component text- BU
+- -component text- BUA
+- -component text- C476
+- -component text- C5Y8
+- -component text- C60
+- -component text- C7F
+- -component text- C7K
+- -component text- C8K
+- -component text- C8k
+- -component text- CO4F
+- -component text- DIP
+- -component text- EPC03
+- -component text- F03
+- -component text- F20A
+- -component text- GC
+- -component text- H
+- -component text- I
+- -component text- K
+- -component text- L4P
+- -component text- L9
+- -component text- M
+- -component text- MXJ
+- -component text- MagJack
+- -component text- NXP
+- -component text- O
+- -component text- ON
+- -component text- OPEN
+- -component text- R005
+- -component text- R047
+- -component text- R050
+- -component text- R10F
+- -component text- R47M
+- -component text- SC
+- -component text- SON
+- -component text- T2
+- -component text- T4
+- -component text- T5
+- -component text- T82C
+- -component text- TA6C
+- -component text- TCR
+- -component text- UDE
+- -component text- h
+- -component text- x10
+- -diode zener array- DA1
+- -diode zener array- DA2
+- -diode zener array- DA3
+- -electrolytic capacitor- C1
+- -electrolytic capacitor- C10
+- -electrolytic capacitor- C100
+- -electrolytic capacitor- C105
+- -electrolytic capacitor- C11
+- -electrolytic capacitor- C115
+- -electrolytic capacitor- C119
+- -electrolytic capacitor- C12
+- -electrolytic capacitor- C125
+- -electrolytic capacitor- C129
+- -electrolytic capacitor- C13
+- -electrolytic capacitor- C133
+- -electrolytic capacitor- C134
+- -electrolytic capacitor- C135
+- -electrolytic capacitor- C136
+- -electrolytic capacitor- C140
+- -electrolytic capacitor- C141
+- -electrolytic capacitor- C15
+- -electrolytic capacitor- C150
+- -electrolytic capacitor- C155
+- -electrolytic capacitor- C157
+- -electrolytic capacitor- C16
+- -electrolytic capacitor- C160
+- -electrolytic capacitor- C163
+- -electrolytic capacitor- C164
+- -electrolytic capacitor- C17
+- -electrolytic capacitor- C174
+- -electrolytic capacitor- C176
+- -electrolytic capacitor- C178
+- -electrolytic capacitor- C183
+- -electrolytic capacitor- C188
+- -electrolytic capacitor- C19
+- -electrolytic capacitor- C199
+- -electrolytic capacitor- C2
+- -electrolytic capacitor- C200
+- -electrolytic capacitor- C201
+- -electrolytic capacitor- C203
+- -electrolytic capacitor- C204
+- -electrolytic capacitor- C205
+- -electrolytic capacitor- C21
+- -electrolytic capacitor- C237
+- -electrolytic capacitor- C239
+- -electrolytic capacitor- C24
+- -electrolytic capacitor- C240
+- -electrolytic capacitor- C241
+- -electrolytic capacitor- C25
+- -electrolytic capacitor- C26
+- -electrolytic capacitor- C263
+- -electrolytic capacitor- C27
+- -electrolytic capacitor- C273
+- -electrolytic capacitor- C274
+- -electrolytic capacitor- C275
+- -electrolytic capacitor- C276
+- -electrolytic capacitor- C28
+- -electrolytic capacitor- C287
+- -electrolytic capacitor- C288
+- -electrolytic capacitor- C29
+- -electrolytic capacitor- C297
+- -electrolytic capacitor- C3
+- -electrolytic capacitor- C30
+- -electrolytic capacitor- C302
+- -electrolytic capacitor- C307
+- -electrolytic capacitor- C31
+- -electrolytic capacitor- C311
+- -electrolytic capacitor- C313
+- -electrolytic capacitor- C32
+- -electrolytic capacitor- C324
+- -electrolytic capacitor- C326
+- -electrolytic capacitor- C33
+- -electrolytic capacitor- C333
+- -electrolytic capacitor- C334
+- -electrolytic capacitor- C335
+- -electrolytic capacitor- C34
+- -electrolytic capacitor- C346
+- -electrolytic capacitor- C347
+- -electrolytic capacitor- C35
+- -electrolytic capacitor- C357
+- -electrolytic capacitor- C36
+- -electrolytic capacitor- C361
+- -electrolytic capacitor- C363
+- -electrolytic capacitor- C376
+- -electrolytic capacitor- C38
+- -electrolytic capacitor- C386
+- -electrolytic capacitor- C388
+- -electrolytic capacitor- C389
+- -electrolytic capacitor- C39
+- -electrolytic capacitor- C4
+- -electrolytic capacitor- C40
+- -electrolytic capacitor- C41
+- -electrolytic capacitor- C410
+- -electrolytic capacitor- C411
+- -electrolytic capacitor- C412
+- -electrolytic capacitor- C413
+- -electrolytic capacitor- C414
+- -electrolytic capacitor- C415
+- -electrolytic capacitor- C416
+- -electrolytic capacitor- C417
+- -electrolytic capacitor- C42
+- -electrolytic capacitor- C43
+- -electrolytic capacitor- C44
+- -electrolytic capacitor- C45
+- -electrolytic capacitor- C47
+- -electrolytic capacitor- C48
+- -electrolytic capacitor- C5
+- -electrolytic capacitor- C51
+- -electrolytic capacitor- C53
+- -electrolytic capacitor- C54
+- -electrolytic capacitor- C55
+- -electrolytic capacitor- C57
+- -electrolytic capacitor- C58
+- -electrolytic capacitor- C59
+- -electrolytic capacitor- C6
+- -electrolytic capacitor- C61
+- -electrolytic capacitor- C62
+- -electrolytic capacitor- C63
+- -electrolytic capacitor- C67
+- -electrolytic capacitor- C69
+- -electrolytic capacitor- C7
+- -electrolytic capacitor- C70
+- -electrolytic capacitor- C72
+- -electrolytic capacitor- C75
+- -electrolytic capacitor- C76
+- -electrolytic capacitor- C77
+- -electrolytic capacitor- C78
+- -electrolytic capacitor- C79
+- -electrolytic capacitor- C8
+- -electrolytic capacitor- C80
+- -electrolytic capacitor- C83
+- -electrolytic capacitor- C84
+- -electrolytic capacitor- C86
+- -electrolytic capacitor- C88
+- -electrolytic capacitor- C9
+- -electrolytic capacitor- C90
+- -electrolytic capacitor- C93
+- -electrolytic capacitor- C94
+- -electrolytic capacitor- C96
+- -electrolytic capacitor- CR1
+- -electrolytic capacitor- CR2
+- -electrolytic capacitor- CR4
+- -electrolytic capacitor- CR5
+- -electrolytic capacitor- unknown
+- -emi filter- EM1
+- -emi filter- EM2
+- -emi filter- EM3
+- -emi filter- EM4
+- -emi filter- EM5
+- -emi filter- EM6
+- -emi filter- EM7
+- -emi filter- FIL
+- -emi filter- FIL1
+- -emi filter- FIL10
+- -emi filter- FIL11
+- -emi filter- FIL12
+- -emi filter- FIL13
+- -emi filter- FIL14
+- -emi filter- FIL16
+- -emi filter- FIL17
+- -emi filter- FIL18
+- -emi filter- FIL2
+- -emi filter- FIL3
+- -emi filter- FIL4
+- -emi filter- FIL5
+- -emi filter- FIL6
+- -emi filter- FIL7
+- -emi filter- FIL8
+- -emi filter- FIL9
+- -emi filter- unknown
+- -ferrite bead- FB1
+- -ferrite bead- FB2
+- -ferrite bead- FB3
+- -ferrite bead- FB4
+- -ferrite bead- FB5
+- -ferrite bead- FB6
+- -ferrite bead- FB7
+- -ferrite bead- FB8
+- -ferrite bead- FE1
+- -resistor jumper- JT4
+- -resistor jumper- JT5
+- -resistor jumper- JT6
+- -resistor jumper- JT7
+- -resistor jumper- RJ1
+- -resistor network- -R-MAT1-
+- -resistor network- -R-MAT2-
+- -resistor network- RESNETW1
+- -resistor network- RM1
+- -resistor network- RM2
+- -resistor network- RM3
+- -resistor network- RM4
+- -resistor network- RM5
+- -resistor network- RM6
+- -resistor network- RM7
+- -resistor network- RM8
+- -resistor network- RM9
+- -resistor network- RN1
+- -resistor network- RNETW18
+- -resistor network- RNETW3
+- -resistor network- RNETW4
+- -resistor network- RNETW5
+- -resistor network- RNETW6
+- -resistor network- RNETW7
+- -resistor network- RNETW8
+- -resistor network- RP1
+- -resistor network- RP2
+- -resistor network- RP3
+- -resistor network- RP4
+- -resistor network- RP5
+- -resistor network- unknown
+- -test point- -GND_PIN-
+- -test point- 1
+- -test point- 10
+- -test point- 11
+- -test point- 12
+- -test point- 13
+- -test point- 14
+- -test point- 15
+- -test point- 16
+- -test point- 17
+- -test point- 18
+- -test point- 19
+- -test point- 2
+- -test point- 20
+- -test point- 21
+- -test point- 22
+- -test point- 23
+- -test point- 24
+- -test point- 25
+- -test point- 26
+- -test point- 27
+- -test point- 28
+- -test point- 29
+- -test point- 3
+- -test point- 30
+- -test point- 31
+- -test point- 32
+- -test point- 33
+- -test point- 34
+- -test point- 35
+- -test point- 36
+- -test point- 37
+- -test point- 38
+- -test point- 39
+- -test point- 4
+- -test point- 40
+- -test point- 41
+- -test point- 42
+- -test point- 43
+- -test point- 44
+- -test point- 45
+- -test point- 46
+- -test point- 47
+- -test point- 48
+- -test point- 5
+- -test point- 6
+- -test point- 7
+- -test point- 8
+- -test point- 9
+- -test point- E11
+- -test point- E12
+- -test point- E13
+- -test point- E14
+- -test point- E15
+- -test point- E17
+- -test point- E18
+- -test point- E19
+- -test point- E20
+- -test point- GND
+- -test point- J10
+- -test point- J11
+- -test point- P1
+- -test point- P13
+- -test point- P14
+- -test point- P15
+- -test point- P16
+- -test point- P17
+- -test point- P18
+- -test point- P2
+- -test point- P3
+- -test point- P4
+- -test point- PP1
+- -test point- PP10
+- -test point- PP11
+- -test point- PP12
+- -test point- PP13
+- -test point- PP2
+- -test point- PP20
+- -test point- PP21
+- -test point- PP22
+- -test point- PP23
+- -test point- PP24
+- -test point- PP25
+- -test point- PP26
+- -test point- PP27
+- -test point- PP28
+- -test point- PP3
+- -test point- PP35
+- -test point- PP36
+- -test point- PP39
+- -test point- PP4
+- -test point- PP40
+- -test point- PP41
+- -test point- PP42
+- -test point- PP43
+- -test point- PP44
+- -test point- PP45
+- -test point- PP46
+- -test point- PP47
+- -test point- PP48
+- -test point- PP49
+- -test point- PP5
+- -test point- PP50
+- -test point- PP51
+- -test point- PP52
+- -test point- PP53
+- -test point- PP54
+- -test point- PP55
+- -test point- PP56
+- -test point- PP57
+- -test point- PP58
+- -test point- PP59
+- -test point- PP6
+- -test point- PP60
+- -test point- PP7
+- -test point- PP8
+- -test point- PP9
+- -test point- TP1
+- -test point- TP10
+- -test point- TP11
+- -test point- TP12
+- -test point- TP13
+- -test point- TP14
+- -test point- TP15
+- -test point- TP16
+- -test point- TP17
+- -test point- TP2
+- -test point- TP23
+- -test point- TP24
+- -test point- TP25
+- -test point- TP3
+- -test point- TP4
+- -test point- TP5
+- -test point- TP6
+- -test point- TP7
+- -test point- TP8
+- -test point- TP9
+- -test point- TPG
+- -test point- TPG1
+- -test point- TPG2
+- -test point- TPG3
+- -test point- TPG4
+- -test point- UNKNOWN
+- -test point- UNKNOWN-
+- -test point- XJ1
+- -test point- XJ2
+- -test point- unknown
+- -zener diode- DA1
+- -zener diode- DA2
+- -zener diode- Z1
+- -zener diode- Z2
+- -zener diode- ZREF1
+- IC
+- LED
+- battery
+- button BUT1
+- button BUT2
+- button DFU
+- button ISP
+- button RESET
+- button SW1
+- button SW10
+- button SW12
+- button SW2
+- button SW3
+- button SW4
+- button SW5
+- button SW6
+- button SW7
+- button unknown
+- buzzer
+- capacitor 1V5
+- capacitor 3V3
+- capacitor 5V0
+- capacitor C1
+- capacitor C10
+- capacitor C100
+- capacitor C101
+- capacitor C102
+- capacitor C103
+- capacitor C104
+- capacitor C105
+- capacitor C106
+- capacitor C107
+- capacitor C108
+- capacitor C109
+- capacitor C11
+- capacitor C110
+- capacitor C111
+- capacitor C112
+- capacitor C113
+- capacitor C114
+- capacitor C115
+- capacitor C116
+- capacitor C117
+- capacitor C118
+- capacitor C119
+- capacitor C12
+- capacitor C120
+- capacitor C121
+- capacitor C122
+- capacitor C123
+- capacitor C124
+- capacitor C125
+- capacitor C126
+- capacitor C127
+- capacitor C128
+- capacitor C129
+- capacitor C13
+- capacitor C130
+- capacitor C131
+- capacitor C132
+- capacitor C133
+- capacitor C134
+- capacitor C135
+- capacitor C136
+- capacitor C137
+- capacitor C138
+- capacitor C139
+- capacitor C14
+- capacitor C140
+- capacitor C141
+- capacitor C142
+- capacitor C143
+- capacitor C144
+- capacitor C145
+- capacitor C146
+- capacitor C147
+- capacitor C148
+- capacitor C149
+- capacitor C15
+- capacitor C150
+- capacitor C151
+- capacitor C152
+- capacitor C153
+- capacitor C154
+- capacitor C155
+- capacitor C156
+- capacitor C157
+- capacitor C158
+- capacitor C159
+- capacitor C16
+- capacitor C160
+- capacitor C161
+- capacitor C162
+- capacitor C163
+- capacitor C164
+- capacitor C165
+- capacitor C166
+- capacitor C167
+- capacitor C168
+- capacitor C169
+- capacitor C17
+- capacitor C170
+- capacitor C171
+- capacitor C172
+- capacitor C173
+- capacitor C174
+- capacitor C175
+- capacitor C176
+- capacitor C1767
+- capacitor C177
+- capacitor C178
+- capacitor C179
+- capacitor C18
+- capacitor C180
+- capacitor C181
+- capacitor C182
+- capacitor C183
+- capacitor C184
+- capacitor C185
+- capacitor C186
+- capacitor C187
+- capacitor C188
+- capacitor C189
+- capacitor C19
+- capacitor C190
+- capacitor C191
+- capacitor C192
+- capacitor C193
+- capacitor C194
+- capacitor C195
+- capacitor C196
+- capacitor C197
+- capacitor C198
+- capacitor C199
+- capacitor C2
+- capacitor C20
+- capacitor C200
+- capacitor C201
+- capacitor C202
+- capacitor C203
+- capacitor C204
+- capacitor C205
+- capacitor C206
+- capacitor C207
+- capacitor C208
+- capacitor C209
+- capacitor C21
+- capacitor C210
+- capacitor C211
+- capacitor C212
+- capacitor C213
+- capacitor C214
+- capacitor C215
+- capacitor C216
+- capacitor C217
+- capacitor C218
+- capacitor C219
+- capacitor C22
+- capacitor C220
+- capacitor C221
+- capacitor C222
+- capacitor C223
+- capacitor C224
+- capacitor C225
+- capacitor C226
+- capacitor C227
+- capacitor C228
+- capacitor C229
+- capacitor C23
+- capacitor C230
+- capacitor C231
+- capacitor C232
+- capacitor C233
+- capacitor C234
+- capacitor C235
+- capacitor C236
+- capacitor C237
+- capacitor C238
+- capacitor C239
+- capacitor C24
+- capacitor C240
+- capacitor C241
+- capacitor C242
+- capacitor C243
+- capacitor C244
+- capacitor C245
+- capacitor C246
+- capacitor C247
+- capacitor C248
+- capacitor C249
+- capacitor C25
+- capacitor C250
+- capacitor C251
+- capacitor C252
+- capacitor C254
+- capacitor C255
+- capacitor C256
+- capacitor C257
+- capacitor C258
+- capacitor C259
+- capacitor C26
+- capacitor C260
+- capacitor C262
+- capacitor C267
+- capacitor C268
+- capacitor C27
+- capacitor C270
+- capacitor C276
+- capacitor C277
+- capacitor C278
+- capacitor C279
+- capacitor C28
+- capacitor C280
+- capacitor C281
+- capacitor C282
+- capacitor C283
+- capacitor C284
+- capacitor C285
+- capacitor C286
+- capacitor C287
+- capacitor C288
+- capacitor C289
+- capacitor C29
+- capacitor C290
+- capacitor C291
+- capacitor C292
+- capacitor C293
+- capacitor C294
+- capacitor C295
+- capacitor C296
+- capacitor C297
+- capacitor C298
+- capacitor C299
+- capacitor C3
+- capacitor C30
+- capacitor C300
+- capacitor C301
+- capacitor C302
+- capacitor C303
+- capacitor C304
+- capacitor C305
+- capacitor C306
+- capacitor C307
+- capacitor C308
+- capacitor C309
+- capacitor C31
+- capacitor C310
+- capacitor C313
+- capacitor C314
+- capacitor C315
+- capacitor C316
+- capacitor C317
+- capacitor C318
+- capacitor C319
+- capacitor C32
+- capacitor C321
+- capacitor C322
+- capacitor C323
+- capacitor C324
+- capacitor C325
+- capacitor C327
+- capacitor C328
+- capacitor C329
+- capacitor C33
+- capacitor C330
+- capacitor C331
+- capacitor C332
+- capacitor C333
+- capacitor C334
+- capacitor C335
+- capacitor C336
+- capacitor C337
+- capacitor C338
+- capacitor C339
+- capacitor C34
+- capacitor C340
+- capacitor C341
+- capacitor C342
+- capacitor C343
+- capacitor C344
+- capacitor C345
+- capacitor C348
+- capacitor C349
+- capacitor C35
+- capacitor C350
+- capacitor C351
+- capacitor C352
+- capacitor C353
+- capacitor C354
+- capacitor C356
+- capacitor C359
+- capacitor C36
+- capacitor C362
+- capacitor C364
+- capacitor C367
+- capacitor C369
+- capacitor C37
+- capacitor C370
+- capacitor C371
+- capacitor C373
+- capacitor C377
+- capacitor C378
+- capacitor C379
+- capacitor C38
+- capacitor C380
+- capacitor C381
+- capacitor C382
+- capacitor C383
+- capacitor C384
+- capacitor C385
+- capacitor C39
+- capacitor C390
+- capacitor C391
+- capacitor C392
+- capacitor C394
+- capacitor C395
+- capacitor C396
+- capacitor C399
+- capacitor C4
+- capacitor C40
+- capacitor C400
+- capacitor C401
+- capacitor C41
+- capacitor C418
+- capacitor C419
+- capacitor C42
+- capacitor C420
+- capacitor C421
+- capacitor C422
+- capacitor C423
+- capacitor C424
+- capacitor C425
+- capacitor C427
+- capacitor C428
+- capacitor C429
+- capacitor C43
+- capacitor C430
+- capacitor C432
+- capacitor C434
+- capacitor C44
+- capacitor C45
+- capacitor C46
+- capacitor C47
+- capacitor C48
+- capacitor C49
+- capacitor C5
+- capacitor C50
+- capacitor C51
+- capacitor C52
+- capacitor C53
+- capacitor C54
+- capacitor C55
+- capacitor C56
+- capacitor C57
+- capacitor C58
+- capacitor C59
+- capacitor C6
+- capacitor C60
+- capacitor C61
+- capacitor C62
+- capacitor C63
+- capacitor C64
+- capacitor C65
+- capacitor C66
+- capacitor C67
+- capacitor C68
+- capacitor C69
+- capacitor C7
+- capacitor C70
+- capacitor C71
+- capacitor C72
+- capacitor C73
+- capacitor C74
+- capacitor C75
+- capacitor C76
+- capacitor C77
+- capacitor C78
+- capacitor C79
+- capacitor C8
+- capacitor C80
+- capacitor C81
+- capacitor C82
+- capacitor C83
+- capacitor C84
+- capacitor C85
+- capacitor C86
+- capacitor C87
+- capacitor C88
+- capacitor C89
+- capacitor C9
+- capacitor C90
+- capacitor C91
+- capacitor C92
+- capacitor C93
+- capacitor C94
+- capacitor C95
+- capacitor C96
+- capacitor C97
+- capacitor C98
+- capacitor C99
+- capacitor CA7
+- capacitor FC1
+- capacitor FC10
+- capacitor FC11
+- capacitor FC12
+- capacitor FC13
+- capacitor FC14
+- capacitor FC15
+- capacitor FC16
+- capacitor FC17
+- capacitor FC18
+- capacitor FC19
+- capacitor FC2
+- capacitor FC21
+- capacitor FC22
+- capacitor FC23
+- capacitor FC24
+- capacitor FC26
+- capacitor FC27
+- capacitor FC28
+- capacitor FC29
+- capacitor FC3
+- capacitor FC30
+- capacitor FC31
+- capacitor FC32
+- capacitor FC33
+- capacitor FC34
+- capacitor FC35
+- capacitor FC36
+- capacitor FC37
+- capacitor FC38
+- capacitor FC39
+- capacitor FC4
+- capacitor FC40
+- capacitor FC41
+- capacitor FC42
+- capacitor FC44
+- capacitor FC5
+- capacitor FC6
+- capacitor FC7
+- capacitor FC8
+- capacitor FC9
+- capacitor PC1
+- capacitor UNKNOWN
+- capacitor Vrough
+- capacitor c12
+- capacitor unknown
+- capacitor
+- clock Q1
+- clock Q2
+- clock Q3
+- clock U21
+- clock U22
+- clock U4
+- clock U8
+- clock X1
+- clock X2
+- clock XT1
+- clock XTAL1
+- clock Y1
+- clock Y1o
+- clock Y2
+- clock Y3
+- clock unknown
+- clock
+- connector -5v-
+- connector -J1_2-
+- connector -J2_2-
+- connector -J3_2-
+- connector -J4_2-
+- connector -Port 1-
+- connector -Port 2-
+- connector -Port 3-
+- connector -Port 4-
+- connector -X_MAX-
+- connector -X_MIN-
+- connector -Y_MAX-
+- connector -Y_MIN-
+- connector -Z_MAX-
+- connector -Z_MIN-
+- connector -ps2 -1-
+- connector -ps2 -2-
+- connector 1
+- connector 2
+- connector 3
+- connector 4
+- connector 5VREG
+- connector BUS1
+- connector BUS2
+- connector C152
+- connector CN1
+- connector CN2
+- connector CN3
+- connector CN4
+- connector CN5
+- connector CN6
+- connector CN7
+- connector CNA
+- connector CNB
+- connector CON2
+- connector CON3
+- connector ICSP
+- connector J1
+- connector J10
+- connector J11
+- connector J12
+- connector J13
+- connector J14
+- connector J15
+- connector J16
+- connector J17
+- connector J18
+- connector J19
+- connector J199
+- connector J2
+- connector J20
+- connector J21
+- connector J22
+- connector J23
+- connector J24
+- connector J25
+- connector J26
+- connector J27
+- connector J3
+- connector J30
+- connector J32
+- connector J4
+- connector J5
+- connector J6
+- connector J7
+- connector J8
+- connector J9
+- connector JN
+- connector JP1
+- connector JP11
+- connector JP15
+- connector JP17
+- connector JP18
+- connector JP2
+- connector JP20
+- connector JP23
+- connector JP24
+- connector JP27
+- connector JP28
+- connector JP29
+- connector JP3
+- connector JP34
+- connector JP4
+- connector JP6
+- connector JP7
+- connector JP8
+- connector JP9
+- connector JX1
+- connector JX2
+- connector KEY1
+- connector NA
+- connector P1
+- connector P10
+- connector P11
+- connector P12
+- connector P13
+- connector P14
+- connector P15
+- connector P16
+- connector P17
+- connector P18
+- connector P19
+- connector P2
+- connector P20
+- connector P21
+- connector P22
+- connector P23
+- connector P24
+- connector P25
+- connector P26
+- connector P27
+- connector P28
+- connector P29
+- connector P3
+- connector P30
+- connector P31
+- connector P32
+- connector P33
+- connector P34
+- connector P35
+- connector P36
+- connector P37
+- connector P38
+- connector P39
+- connector P4
+- connector P40
+- connector P41
+- connector P42
+- connector P43
+- connector P44
+- connector P45
+- connector P46
+- connector P47
+- connector P49
+- connector P5
+- connector P50
+- connector P51
+- connector P52
+- connector P6
+- connector P7
+- connector P8
+- connector P9
+- connector RUN
+- connector SERIAL
+- connector SWD
+- connector TP1
+- connector TP2
+- connector TP3
+- connector TPG1
+- connector TRA1
+- connector TSTJ1
+- connector U2
+- connector UEXT
+- connector UNKNOWN
+- connector USB
+- connector X1
+- connector X13
+- connector X2
+- connector X3
+- connector X4
+- connector X5
+- connector X6
+- connector unknown
+- connector
+- diode -D1-
+- diode D1
+- diode D10
+- diode D11
+- diode D12
+- diode D2
+- diode D21
+- diode D22
+- diode D23
+- diode D25 RA
+- diode D28 RA
+- diode D3
+- diode D4
+- diode D5
+- diode D6
+- diode D7
+- diode D8
+- diode D9
+- diode TVS1
+- diode TVS2
+- diode TVS3
+- diode unknown
+- diode
+- display P5
+- display unknown
+- display
+- fuse F1
+- fuse FUSE2
+- fuse FUSE3
+- fuse FUSE4
+- fuse unknown
+- fuse
+- heatsink HSINK1
+- heatsink HSINK2
+- heatsink HSINK3
+- ic -MK64FN1M0VLL12 IN83J QCTDA1545A-
+- ic -VR1-3-3V-
+- ic F1
+- ic FPGA
+- ic IC1
+- ic IC10
+- ic IC11 -FTDI 09753-1 FT232HQ 1544-C-
+- ic IC11
+- ic IC12
+- ic IC13 -426 LGZ-
+- ic IC13
+- ic IC14
+- ic IC15
+- ic IC16
+- ic IC17
+- ic IC18
+- ic IC19 PGV
+- ic IC19
+- ic IC2 -CU384C 08KG4 3SZ1-
+- ic IC2
+- ic IC20
+- ic IC21
+- ic IC22
+- ic IC23
+- ic IC24
+- ic IC3 -CU384C 08KG4 ESZ1-
+- ic IC3
+- ic IC4
+- ic IC5
+- ic IC6 -XILINX SPARTAN-6 XC6SLX25 CSG3248IV1617 D5218876A 2C TAIWAN-
+- ic IC6
+- ic IC7
+- ic IC8 -4GCY 61K77 D9PSL-
+- ic IC8
+- ic IC9
+- ic K20
+- ic TP1
+- ic TP2
+- ic U1
+- ic U10
+- ic U11
+- ic U12
+- ic U13
+- ic U14
+- ic U15
+- ic U16
+- ic U17
+- ic U18
+- ic U19
+- ic U2
+- ic U20
+- ic U21
+- ic U22
+- ic U23
+- ic U24
+- ic U25
+- ic U26
+- ic U27
+- ic U28
+- ic U29
+- ic U3
+- ic U30
+- ic U31
+- ic U32
+- ic U33
+- ic U4
+- ic U5
+- ic U6
+- ic U7
+- ic U8
+- ic U9
+- ic UNKNOWN
+- ic Y1
+- ic fpga
+- ic unknown
+- inductor F1
+- inductor F2
+- inductor J3 -2-2uH-
+- inductor L1
+- inductor L10
+- inductor L2
+- inductor L3 -3R3 X4-
+- inductor L3
+- inductor L4 -4R7 K2-
+- inductor L4
+- inductor L5 100
+- inductor L5
+- inductor L6
+- inductor L7
+- inductor L8
+- inductor L9
+- inductor unknown
+- inductor
+- jumper -BLD_E-
+- jumper J10
+- jumper J12
+- jumper J14
+- jumper J17
+- jumper J21
+- jumper J25
+- jumper J5
+- jumper J8
+- jumper J9
+- jumper JP1
+- jumper JP2
+- jumper JP3
+- jumper P17
+- jumper P20
+- jumper P27
+- jumper P39
+- jumper P41
+- jumper P53
+- jumper P6
+- jumper P7
+- jumper P8
+- jumper unknown
+- led -3-3v-
+- led 1V8
+- led 2
+- led 3
+- led 3V3
+- led 4
+- led ACT
+- led D1
+- led D10
+- led D11
+- led D12
+- led D13
+- led D14
+- led D15
+- led D16
+- led D17
+- led D19
+- led D2
+- led D20
+- led D3
+- led D4
+- led D5
+- led D6
+- led D7
+- led D8
+- led D9
+- led DS1
+- led DS10
+- led DS11
+- led DS12
+- led DS13
+- led DS14
+- led DS15
+- led DS16
+- led DS17
+- led DS18
+- led DS19
+- led DS2
+- led DS20
+- led DS3
+- led DS4
+- led DS5
+- led DS6
+- led DS7
+- led DS8
+- led DS9
+- led L
+- led L0
+- led L1
+- led L2
+- led L3
+- led L4
+- led L5
+- led L6
+- led L7
+- led L8
+- led L9
+- led LD1
+- led LD2
+- led LED0
+- led LED1
+- led LED11
+- led LED2
+- led LED3
+- led LED4
+- led LED5
+- led LED6
+- led LED7
+- led ON
+- led PWR
+- led RF
+- led RX
+- led TX
+- led USB
+- led USBC
+- led VBB
+- led unknown
+- pads -3-3V_CORE_E-
+- pads -3-3V_IO_E-
+- pads -RESET-EN-
+- pads C10
+- pads C11
+- pads C115
+- pads C12
+- pads C127
+- pads C13
+- pads C130
+- pads C136
+- pads C139
+- pads C143
+- pads C156
+- pads C179
+- pads C18
+- pads C180
+- pads C189
+- pads C198
+- pads C207
+- pads C211
+- pads C212
+- pads C217
+- pads C218
+- pads C26
+- pads C28
+- pads C30
+- pads C31
+- pads C33
+- pads C36
+- pads C37
+- pads C38
+- pads C39
+- pads C4
+- pads C40
+- pads C44
+- pads C48
+- pads C5
+- pads C50
+- pads C52
+- pads C53
+- pads C54
+- pads C55
+- pads C6
+- pads C65
+- pads C66
+- pads C68
+- pads C69
+- pads C7
+- pads C8
+- pads C86
+- pads C87
+- pads C88
+- pads C89
+- pads C9
+- pads C96
+- pads C97
+- pads D1
+- pads D11
+- pads D13
+- pads D3
+- pads D4
+- pads EM8
+- pads ENDSTOPS
+- pads I2C
+- pads J13
+- pads J21
+- pads J4
+- pads J5
+- pads J6
+- pads J9
+- pads JP13
+- pads JP30
+- pads JP31
+- pads JP36
+- pads JT1
+- pads JT2
+- pads JT3
+- pads L10
+- pads L3
+- pads P19
+- pads R1
+- pads R10
+- pads R11
+- pads R111
+- pads R113
+- pads R114
+- pads R116
+- pads R117
+- pads R120
+- pads R122
+- pads R125
+- pads R127
+- pads R13
+- pads R130
+- pads R131
+- pads R14
+- pads R151
+- pads R152
+- pads R16
+- pads R160
+- pads R17
+- pads R174
+- pads R18
+- pads R187
+- pads R189
+- pads R19
+- pads R191
+- pads R2
+- pads R201
+- pads R202
+- pads R22
+- pads R221
+- pads R222
+- pads R223
+- pads R224
+- pads R225
+- pads R226
+- pads R227
+- pads R228
+- pads R229
+- pads R23
+- pads R230
+- pads R231
+- pads R232
+- pads R233
+- pads R234
+- pads R236
+- pads R237
+- pads R238
+- pads R239
+- pads R240
+- pads R241
+- pads R242
+- pads R243
+- pads R244
+- pads R268
+- pads R27
+- pads R28
+- pads R285
+- pads R3
+- pads R302
+- pads R31
+- pads R312
+- pads R32
+- pads R33
+- pads R34
+- pads R36
+- pads R38
+- pads R39
+- pads R40
+- pads R41
+- pads R42
+- pads R44
+- pads R46
+- pads R47
+- pads R48
+- pads R49
+- pads R5
+- pads R51
+- pads R52
+- pads R53
+- pads R55
+- pads R56
+- pads R57
+- pads R58
+- pads R59
+- pads R6
+- pads R60
+- pads R62
+- pads R63
+- pads R64
+- pads R65
+- pads R67
+- pads R68
+- pads R69
+- pads R7
+- pads R70
+- pads R72
+- pads R75
+- pads R77
+- pads R78
+- pads R8
+- pads R81
+- pads R82
+- pads R86
+- pads R87
+- pads R9
+- pads R94
+- pads R97
+- pads R98
+- pads R99
+- pads RC1
+- pads RTCK
+- pads SW1
+- pads TCK
+- pads TDI
+- pads TDO
+- pads TMS
+- pads TRS
+- pads U10
+- pads U11
+- pads U18
+- pads U23
+- pads U3
+- pads UART
+- pads unknown
+- pads x1
+- pins CN2
+- pins J2
+- pins J27
+- pins J3
+- pins J4
+- pins M1
+- pins M2
+- pins M3
+- pins M4
+- pins M5
+- pins UNKNOWN
+- pins unknown
+- potentiometer POT1
+- potentiometer POT2
+- potentiometer R165
+- potentiometer R536
+- potentiometer SW2
+- potentiometer SW6
+- potentiometer SW9
+- potentiometer
+- relay
+- resistor IR1
+- resistor J1
+- resistor R1
+- resistor R10
+- resistor R100
+- resistor R101
+- resistor R102
+- resistor R103
+- resistor R104
+- resistor R105
+- resistor R106
+- resistor R107
+- resistor R108
+- resistor R109
+- resistor R11
+- resistor R110
+- resistor R111
+- resistor R112
+- resistor R113
+- resistor R114
+- resistor R115
+- resistor R116
+- resistor R117
+- resistor R118
+- resistor R119
+- resistor R12
+- resistor R120
+- resistor R121
+- resistor R122
+- resistor R123
+- resistor R124
+- resistor R125
+- resistor R126
+- resistor R127
+- resistor R128
+- resistor R129
+- resistor R13
+- resistor R130
+- resistor R131
+- resistor R132
+- resistor R133
+- resistor R134
+- resistor R135
+- resistor R136
+- resistor R137
+- resistor R138
+- resistor R139
+- resistor R14
+- resistor R140
+- resistor R141
+- resistor R142
+- resistor R143
+- resistor R144 274
+- resistor R144
+- resistor R145
+- resistor R146 339
+- resistor R146
+- resistor R147
+- resistor R148
+- resistor R149 114
+- resistor R149
+- resistor R15
+- resistor R150
+- resistor R151
+- resistor R152
+- resistor R153
+- resistor R154
+- resistor R155
+- resistor R156
+- resistor R157
+- resistor R158
+- resistor R159
+- resistor R16
+- resistor R160
+- resistor R161
+- resistor R162
+- resistor R163 R015
+- resistor R163
+- resistor R164
+- resistor R165
+- resistor R166
+- resistor R167
+- resistor R168
+- resistor R169
+- resistor R17
+- resistor R170
+- resistor R171
+- resistor R172
+- resistor R173
+- resistor R174
+- resistor R175
+- resistor R176
+- resistor R177
+- resistor R178
+- resistor R179
+- resistor R18
+- resistor R180
+- resistor R181
+- resistor R182
+- resistor R183
+- resistor R184
+- resistor R185
+- resistor R186
+- resistor R187
+- resistor R188
+- resistor R189
+- resistor R19
+- resistor R190
+- resistor R191
+- resistor R192
+- resistor R193
+- resistor R194
+- resistor R195
+- resistor R196
+- resistor R197
+- resistor R198
+- resistor R199
+- resistor R2
+- resistor R20
+- resistor R200
+- resistor R201
+- resistor R202
+- resistor R203
+- resistor R204
+- resistor R205
+- resistor R206
+- resistor R207
+- resistor R208
+- resistor R209
+- resistor R21
+- resistor R210
+- resistor R211
+- resistor R212
+- resistor R213
+- resistor R214
+- resistor R215
+- resistor R216
+- resistor R217
+- resistor R218
+- resistor R219
+- resistor R22
+- resistor R220
+- resistor R221
+- resistor R222
+- resistor R223
+- resistor R224
+- resistor R226
+- resistor R227
+- resistor R228
+- resistor R229
+- resistor R23
+- resistor R230
+- resistor R232
+- resistor R233
+- resistor R234
+- resistor R236
+- resistor R237
+- resistor R238
+- resistor R24
+- resistor R240
+- resistor R242
+- resistor R243
+- resistor R244
+- resistor R245
+- resistor R246
+- resistor R247
+- resistor R248
+- resistor R249
+- resistor R25
+- resistor R250
+- resistor R251
+- resistor R252
+- resistor R253
+- resistor R254
+- resistor R255
+- resistor R256
+- resistor R257
+- resistor R258
+- resistor R259
+- resistor R26
+- resistor R260
+- resistor R261
+- resistor R262
+- resistor R263
+- resistor R264
+- resistor R265
+- resistor R266
+- resistor R267
+- resistor R268
+- resistor R269
+- resistor R27
+- resistor R270
+- resistor R271
+- resistor R272
+- resistor R273
+- resistor R274
+- resistor R275
+- resistor R276
+- resistor R277
+- resistor R278
+- resistor R279
+- resistor R28
+- resistor R280
+- resistor R281
+- resistor R282
+- resistor R283
+- resistor R284
+- resistor R285
+- resistor R286
+- resistor R287
+- resistor R288
+- resistor R289
+- resistor R29
+- resistor R290
+- resistor R291
+- resistor R292
+- resistor R293
+- resistor R294
+- resistor R295
+- resistor R296
+- resistor R3
+- resistor R30
+- resistor R303
+- resistor R304
+- resistor R305
+- resistor R306
+- resistor R308
+- resistor R31
+- resistor R310
+- resistor R32
+- resistor R320
+- resistor R325
+- resistor R33
+- resistor R331
+- resistor R332
+- resistor R333
+- resistor R338
+- resistor R34
+- resistor R344
+- resistor R346
+- resistor R349
+- resistor R35
+- resistor R351
+- resistor R352
+- resistor R353
+- resistor R354
+- resistor R355
+- resistor R359
+- resistor R36
+- resistor R361
+- resistor R363
+- resistor R364
+- resistor R365
+- resistor R366
+- resistor R367
+- resistor R368
+- resistor R369
+- resistor R37
+- resistor R370
+- resistor R372
+- resistor R374
+- resistor R376
+- resistor R38
+- resistor R380
+- resistor R385
+- resistor R386
+- resistor R388
+- resistor R389
+- resistor R39
+- resistor R390
+- resistor R391
+- resistor R392
+- resistor R394
+- resistor R396
+- resistor R398
+- resistor R399
+- resistor R4
+- resistor R40
+- resistor R400
+- resistor R401
+- resistor R402
+- resistor R403
+- resistor R404
+- resistor R405
+- resistor R406
+- resistor R408
+- resistor R41
+- resistor R411
+- resistor R412
+- resistor R413
+- resistor R414
+- resistor R415
+- resistor R416
+- resistor R417
+- resistor R418
+- resistor R419
+- resistor R42
+- resistor R420
+- resistor R421
+- resistor R422
+- resistor R423
+- resistor R424
+- resistor R425
+- resistor R426
+- resistor R427
+- resistor R428
+- resistor R429
+- resistor R43
+- resistor R430
+- resistor R432
+- resistor R434
+- resistor R436
+- resistor R438
+- resistor R44
+- resistor R440
+- resistor R441
+- resistor R442
+- resistor R446
+- resistor R447
+- resistor R45
+- resistor R450
+- resistor R452
+- resistor R456
+- resistor R458
+- resistor R46
+- resistor R460
+- resistor R461
+- resistor R462
+- resistor R463
+- resistor R464
+- resistor R465
+- resistor R466
+- resistor R468
+- resistor R47
+- resistor R470
+- resistor R471
+- resistor R472
+- resistor R473
+- resistor R474
+- resistor R475
+- resistor R479
+- resistor R48
+- resistor R486
+- resistor R487
+- resistor R488
+- resistor R489
+- resistor R49
+- resistor R490
+- resistor R493
+- resistor R494
+- resistor R495
+- resistor R496
+- resistor R5
+- resistor R50
+- resistor R501
+- resistor R503
+- resistor R506
+- resistor R51
+- resistor R511
+- resistor R512
+- resistor R513
+- resistor R514
+- resistor R515
+- resistor R517
+- resistor R518
+- resistor R519
+- resistor R52
+- resistor R521
+- resistor R523
+- resistor R524
+- resistor R525
+- resistor R528
+- resistor R529
+- resistor R53
+- resistor R530
+- resistor R532
+- resistor R533
+- resistor R534
+- resistor R54
+- resistor R55
+- resistor R552
+- resistor R56
+- resistor R57
+- resistor R58
+- resistor R59
+- resistor R6
+- resistor R60
+- resistor R61
+- resistor R62
+- resistor R63
+- resistor R64
+- resistor R65
+- resistor R66
+- resistor R67
+- resistor R68
+- resistor R69
+- resistor R7
+- resistor R70
+- resistor R71
+- resistor R72
+- resistor R73
+- resistor R74
+- resistor R75
+- resistor R76
+- resistor R77
+- resistor R78
+- resistor R79
+- resistor R8
+- resistor R80
+- resistor R81
+- resistor R82
+- resistor R83
+- resistor R84
+- resistor R85
+- resistor R86
+- resistor R87
+- resistor R88
+- resistor R89
+- resistor R9
+- resistor R90
+- resistor R91
+- resistor R92
+- resistor R93
+- resistor R94
+- resistor R95
+- resistor R96
+- resistor R97
+- resistor R98
+- resistor R99
+- resistor UNKNOWN
+- resistor unknown
+- resistor
+- switch - 1 2 3 4 OPEN-
+- switch DIP1
+- switch DIP2
+- switch DSW1
+- switch SW1
+- switch SW11
+- switch SW2
+- switch SW3
+- switch SW4
+- switch SW6
+- switch SW7
+- switch SW8
+- switch unknown
+- switch
+- text -
+- text -0-15-
+- text -0-33-0 MHz-
+- text -0-9V-
+- text -0-P2-4-
+- text -04-03-
+- text -09 16-
+- text -1-16-5 MHz-
+- text -1-2-
+- text -1-2V-
+- text -1-5V-
+- text -1-8V-
+- text -10031-TT-8021-
+- text -125-25MHz-
+- text -12V-
+- text -156-25MHz-
+- text -1V5-
+- text -2 109-
+- text -2-3-
+- text -2-4-3-4-
+- text -2-5-3-5-
+- text -2-5V-
+- text -2-6V-
+- text -2-8-25 MHz-
+- text -200 MHZ-
+- text -250 MHZ-
+- text -2V5-
+- text -3-08V-
+- text -3-3V-
+- text -3-3V_CORE_E-
+- text -3-3V_IO_E-
+- text -3-3v-
+- text -3-4-12 MHz-
+- text -3-6V-
+- text -33717-1-
+- text -3V3-
+- text -4-2-06 MHz-
+- text -400-0033-
+- text -4x100n-
+- text -5-1-03 MHz-
+- text -50 OHM-
+- text -5V ON-
+- text -5V-
+- text -5V-DC-
+- text -5V0-
+- text -5V_IMON-
+- text -5V_TP-
+- text -6 AMP-
+- text -6-0-52 MHz-
+- text -6403-
+- text -7-0-26 MHz-
+- text -8-24Vdc-
+- text -94V-0-
+- text -94V-0F1-
+- text -AC 23-
+- text -ACE CLK-
+- text -ACE RESET-
+- text -ACM-027A-
+- text -ACM-109-
+- text -ACM-109A-
+- text -ADD JMPER TO J18-
+- text -AIN-
+- text -ANALOG IN-
+- text -APP CLK-
+- text -APP PB-
+- text -APP SW-
+- text -ARDUINO-CC-
+- text -ASSEM - 0431125 REV-
+- text -ASSEMBLED IN USA-
+- text -BANK2_AUX-
+- text -BBT OK-
+- text -BLD_E-
+- text -BOARD MEGA-
+- text -Big FET In-
+- text -C-
+- text -CIREXX2M-0 94V-0 1701-
+- text -CLOCK FREQ-
+- text -CLOCK-1-
+- text -CLOCK-2-
+- text -CML OUT-
+- text -CNA-
+- text -CNB-
+- text -COMPACT FLASH CARD-
+- text -CONFIG- JTAG PORT 0-
+- text -CONFIG- JTAG PORT 1-
+- text -CONFIG- JTAG PORT 2-
+- text -CONFIGURATION CONTROLLER-
+- text -CONFIGURATION TARGET-
+- text -CS-P0-16-
+- text -CTISL-IT USB-
+- text -D-P2-5-
+- text -D1-
+- text -DC -5V Input-
+- text -DC V- Select-
+- text -DIGITAL DISCOVERY-
+- text -DIR1-P0-5-
+- text -DIR2-P0-11-
+- text -DIR3-P0-20-
+- text -DIR4-P0-22-
+- text -DIR5-P2-13-
+- text -DN-
+- text -DONE-
+- text -DS5-DS20-
+- text -Disable after-
+- text -Do not throw away_symbol-
+- text -EDA-008-ACM-027-
+- text -EDA-008A-
+- text -ELECTRONICS PLATFORM-
+- text -EN1-P0-4-
+- text -EN2-P0-10-
+- text -EN3-P0-19-
+- text -EN4-P0-21-
+- text -EN5-P4-29-
+- text -ENC IN-
+- text -ERROR LED ENABLE-
+- text -ETHERNET PHY-
+- text -EXTCLK_N-
+- text -EXTCLK_P-
+- text -Enable 25MHz-
+- text -F1 18-
+- text -FCC ID- 2ABCB-RPI32-
+- text -FILE SEL-
+- text -FPGA ONLY-
+- text -FPGA-HT-
+- text -FX2-100-
+- text -Freq- Tuning-
+- text -GAIN V-V-
+- text -GND-
+- text -GNDA-
+- text -GNDB-
+- text -GND_PIN-
+- text -GPIO Single Ended TP-
+- text -GREAT SCOTT GADGETS-
+- text -HI-SPEED-
+- text -HUMANDATA XCM-019B-
+- text -HUMANDATA XCM-307A-
+- text -HackRF One-
+- text -IC- 20953-RPI32-
+- text -ICS843X CLOCK MULTIPLIER-
+- text -INPUT 5 TO 9VDC-
+- text -INS 7-
+- text -Image Sel-
+- text -J1_2-
+- text -J2_2-
+- text -J3_2-
+- text -J4_2-
+- text -JP2_R2-
+- text -JTAG CHAIN-
+- text -JTAG I-F-
+- text -JTAG P1-
+- text -JTAG PROMS-
+- text -JTAG-
+- text -KCE MC1-
+- text -KS-17A-
+- text -LED-
+- text -LED1-P1-18-
+- text -LED2-P1-19-
+- text -LED3-P1-20-
+- text -LED4-P1-21-
+- text -LOCAL JTAG PORT-
+- text -LPC JTAG-
+- text -LPC-P1xxx-
+- text -LPC_ISP-
+- text -LTC2274 ADC-
+- text -LVDS RECEIVE-
+- text -LVDS TRANSMIT-
+- text -Large FETs-
+- text -MADE IN USA-
+- text -MAXIM MAX2608 VCO Rev-01-
+- text -MEASURE-1-
+- text -MEASURE-2-
+- text -MEGA2560 R3-
+- text -MICRO SD CARD-
+- text -MISO-P0-17-
+- text -ML 365-
+- text -ML450 Networking Interface Board APD Applications-
+- text -MODE GROUP A-
+- text -MODE GROUP B-
+- text -MODEL 2560-
+- text -MOSI-P0-18-
+- text -MULTILINX INTERFACE-
+- text -Made in the UK-
+- text -Mixed FETs -VBB Input-
+- text -MultiLinx Serial-
+- text -N-
+- text -OFF - 100-
+- text -ON - 50-
+- text -ON-OFF-
+- text -OPEN-SOURCE PROTOTYPING-
+- text -O_B-
+- text -Osaka Japan-
+- text -P-
+- text -P0-16-
+- text -P0-17-
+- text -P0-18-
+- text -P0_1-
+- text -P0_10-
+- text -P0_11-
+- text -P0_2-
+- text -P0_3-
+- text -P0_4-
+- text -P0_5-
+- text -P0_6-
+- text -P0_7-
+- text -P0_8-
+- text -P0_9-
+- text -P1-22-
+- text -P1-23-
+- text -P1-24-
+- text -P1-25-
+- text -P1-26-
+- text -P1-27-
+- text -P1-28-
+- text -P1-29-
+- text -P1-30-
+- text -P1-31-
+- text -P1_0-
+- text -P1_1-
+- text -P1_10-
+- text -P1_11-
+- text -P1_2-
+- text -P1_3-
+- text -P1_4-
+- text -P1_5-
+- text -P1_6-
+- text -P1_7-
+- text -P1_8-
+- text -P1_9-
+- text -P2-1-
+- text -P2-11-
+- text -P2-4-
+- text -P2-5-
+- text -P2-6-
+- text -P2-7-
+- text -P27 2-5V REF-
+- text -P29-VCCAUX-
+- text -P2_0-
+- text -P2_1-
+- text -P2_10-
+- text -P2_11-
+- text -P2_2-
+- text -P2_3-
+- text -P2_6-
+- text -P2_7-
+- text -P2_8-
+- text -P2_9-
+- text -P3-25-
+- text -P3-26-
+- text -P36 VA-
+- text -P3_0-
+- text -P3_1-
+- text -P3_2-
+- text -P3_3-
+- text -PB200-319-
+- text -PLAY-P2-12-
+- text -PLAY_LED-P4-28-
+- text -PLOTECH 6-
+- text -PS2 -1-
+- text -PS2 -2-
+- text -PS2 PORTS-
+- text -PW-
+- text -PWR IN-
+- text -Pin 2-
+- text -QA 31-
+- text -QC PASS-
+- text -QDR_A 200 LC-
+- text -QDR_B 200 LC-
+- text -QDR_C 250 GC-
+- text -QSR II SRAM INTERFACE BOARD-
+- text -R-MAT1-
+- text -R-MAT2-
+- text -RESET-EN-
+- text -REV C-
+- text -REV-2-
+- text -ROHS COMPLIANT-
+- text -RS-232-
+- text -RX-P0-3-
+- text -RX1 19-
+- text -RX2 17-
+- text -RX3 15-
+- text -Raspberry Pi 2015-
+- text -Raspberry Pi 3 Model B V1-2-
+- text -Raspberry Pi_symbol-
+- text -Rev 01 Oct 2002-
+- text -Rev-01 Oct 2002-
+- text -Rev-01-
+- text -Rev-B-
+- text -Rev-X1-
+- text -RoHS 2002-95-EC-
+- text -RoHS Compliant-
+- text -Rx-Data-
+- text -S-A- RESET-
+- text -S-N SA00171-
+- text -SA RESET-
+- text -SCK-P0-15-
+- text -SCL 21-
+- text -SCL-P0-1-
+- text -SCL-P0-28-
+- text -SDA 20-
+- text -SDA-P0-0-
+- text -SDA-P0-27-
+- text -SD_CS-
+- text -SD_CS-P0-6-
+- text -SD_MI-
+- text -SD_MISO-P0-8-
+- text -SD_MO-
+- text -SD_MOSI-P0-9-
+- text -SD_SCK-
+- text -SD_SCK-P0-7-
+- text -SIG 1400017 MEXICO BD-Z7MB-7Z010-G-REV-F02-
+- text -SINGLE ENDED CLOCK THROUGHPUT-
+- text -SM 2-5V REF SEL-
+- text -SMOOTHIE BOARD-
+- text -SS-1 94V-0-
+- text -SS-3-
+- text -STP1-P2-0-
+- text -STP2-P2-1-
+- text -STP3-P2-2-
+- text -STP4-P2-3-
+- text -STP5-P2-8-
+- text -SYS CLK-
+- text -SYSTEM 3-3V-
+- text -SYSTEM MONITOR ANALOG CONDITIONING BOARD-
+- text -Small FET In-
+- text -Small FETs-
+- text -Smoothieboard-tm- v1-1-
+- text -System ACE-
+- text -TAKE CARE-
+- text -TARGET DONE-
+- text -TARGET RESET-
+- text -TEST JTAG PORT-
+- text -TH1-P0-23-
+- text -TH2-P0-24-
+- text -TH3-P0-25-
+- text -TH4-P0-26-
+- text -TO REMOVE IMON FROM CIRCUIT-
+- text -TX-P0-2-
+- text -TX1 18-
+- text -TX2 16-
+- text -TX3 14-
+- text -UP RESET-
+- text -USB-RS232-
+- text -USB2-0-
+- text -USB_5-
+- text -USB_D-
+- text -USER 1-
+- text -USER 2-
+- text -UTL-016C-
+- text -UTL-103B-
+- text -V-
+- text -V1-08-2014-
+- text -V5A-
+- text -V5R0_MOD-
+- text -VBB Jumper -3A MAX-
+- text -VBB Jumper -6A MAX-
+- text -VIRTEX 4-
+- text -VR1-3-3V-
+- text -VUART-
+- text -Vbat-
+- text -WWW-OLIMEX-COM-
+- text -XC3S-TQ144-
+- text -XC5VLX30 - Virtex5-
+- text -XCM-019-
+- text -XILINX MEMORY TOOL KIT-
+- text -XLVDSpro Supply Board-
+- text -XP68-04A-
+- text -XRAY 03-
+- text -X_MAX-
+- text -X_MIN-
+- text -Y_MAX-
+- text -Y_MIN-
+- text -Z7MB-7Z0x0-ASY-10-
+- text -Z7MB-7Z0x0-PCB-F-
+- text -ZTEX USB-FPGA Module 1-2-
+- text -Z_MAX-
+- text -Z_MIN-
+- text -d-tm- v1-1-
+- text -designed by Arthur Wold- Triffid_Hunter- Eneiou Logxen- and others with the
+  support of the RepRap community-
+- text -electronics marketing-
+- text -http-greatscottgadgets-com-hackrf-
+- text -http-smoothieware-org-
+- text -irc-chat-freenode-net-smoothieware-
+- text -o1-2V-
+- text -o2-5V-
+- text -o2-6V-
+- text -r4-p1-
+- text -uP INTERFACE-
+- text -www-microzed-org-
+- text -www-ztex-de-
+- text 0
+- text 01
+- text 02
+- text 0349
+- text 056
+- text 0814
+- text 1
+- text 10
+- text 100
+- text 1004009844
+- text 101
+- text 102
+- text 103
+- text 104
+- text 105
+- text 106
+- text 107
+- text 11
+- text 1148
+- text 117
+- text 118
+- text 119
+- text 11p
+- text 12
+- text 120
+- text 121
+- text 122
+- text 123
+- text 1231
+- text 124
+- text 125
+- text 127
+- text 1280235
+- text 13
+- text 130
+- text 131
+- text 132
+- text 133
+- text 134
+- text 1349
+- text 135
+- text 1352
+- text 14
+- text 149374
+- text 15
+- text 150
+- text 159
+- text 16
+- text 160
+- text 1603
+- text 1608
+- text 1637
+- text 17
+- text 1720
+- text 18
+- text 19
+- text 191
+- text 198
+- text 1C
+- text 1V5
+- text 1V6
+- text 1V8
+- text 2
+- text 20
+- text 200
+- text 2004
+- text 200MHz
+- text 2013
+- text 21
+- text 210
+- text 215
+- text 218261
+- text 22
+- text 227
+- text 2274
+- text 22u
+- text 23
+- text 24
+- text 24LC128SN
+- text 24MHz
+- text 25
+- text 250MHz
+- text 2560
+- text 26
+- text 27
+- text 28
+- text 29
+- text 291
+- text 298
+- text 2K2
+- text 3
+- text 30
+- text 300
+- text 3085
+- text 31
+- text 32
+- text 33
+- text 33MHz
+- text 34
+- text 35
+- text 36
+- text 37
+- text 38
+- text 39
+- text 3R3V
+- text 3V3
+- text 3v3
+- text 4
+- text 40
+- text 41
+- text 42
+- text 43
+- text 44
+- text 45
+- text 46
+- text 47
+- text 48
+- text 49
+- text 5
+- text 50
+- text 51
+- text 52
+- text 53
+- text 56
+- text 5V
+- text 5V0
+- text 5VREG
+- text 5v
+- text 6
+- text 63
+- text 66
+- text 7
+- text 75
+- text 76
+- text 77
+- text 78
+- text 79
+- text 8
+- text 80
+- text 81
+- text 82
+- text 84
+- text 85
+- text 86
+- text 87
+- text 88
+- text 9
+- text 91
+- text 95
+- text 96
+- text 97
+- text 98
+- text 99
+- text A
+- text A0
+- text A1
+- text A10
+- text A11
+- text A12
+- text A13
+- text A14
+- text A15
+- text A2
+- text A3
+- text A4
+- text A5
+- text A7
+- text A7W58
+- text A8
+- text A9
+- text AA
+- text AB
+- text AC
+- text ACCEL
+- text ACT
+- text AD
+- text ADR0
+- text ADR1
+- text ADR2
+- text AE
+- text AF
+- text AG
+- text AH
+- text AJ
+- text AL
+- text AM
+- text AN
+- text ANTENNA
+- text AP
+- text ARDUINO
+- text AREF
+- text ASW
+- text AUTO
+- text AVNET
+- text Ae
+- text B
+- text B1
+- text BOT
+- text BT
+- text BUDY
+- text BUN2716012428
+- text BUS1
+- text BUS2
+- text BUT1
+- text BUT2
+- text C
+- text C1
+- text C10
+- text C100
+- text C101
+- text C102
+- text C103
+- text C104
+- text C105
+- text C106
+- text C107
+- text C108
+- text C109
+- text C11
+- text C110
+- text C111
+- text C112
+- text C113
+- text C114
+- text C115
+- text C116
+- text C117
+- text C118
+- text C119
+- text C12
+- text C120
+- text C121
+- text C122
+- text C123
+- text C124
+- text C125
+- text C126
+- text C127
+- text C128
+- text C129
+- text C13
+- text C130
+- text C131
+- text C132
+- text C133
+- text C134
+- text C135
+- text C136
+- text C137
+- text C138
+- text C139
+- text C14
+- text C140
+- text C141
+- text C142
+- text C143
+- text C144
+- text C145
+- text C146
+- text C147
+- text C148
+- text C149
+- text C15
+- text C150
+- text C151
+- text C152
+- text C153
+- text C154
+- text C155
+- text C156
+- text C157
+- text C158
+- text C159
+- text C16
+- text C160
+- text C161
+- text C162
+- text C163
+- text C164
+- text C165
+- text C166
+- text C167
+- text C168
+- text C169
+- text C17
+- text C170
+- text C171
+- text C172
+- text C173
+- text C174
+- text C175
+- text C176
+- text C177
+- text C178
+- text C179
+- text C18
+- text C180
+- text C181
+- text C182
+- text C183
+- text C184
+- text C185
+- text C186
+- text C187
+- text C188
+- text C189
+- text C19
+- text C190
+- text C191
+- text C192
+- text C193
+- text C194
+- text C195
+- text C196
+- text C197
+- text C198
+- text C199
+- text C2
+- text C20
+- text C200
+- text C201
+- text C202
+- text C203
+- text C204
+- text C205
+- text C206
+- text C207
+- text C208
+- text C209
+- text C21
+- text C210
+- text C211
+- text C212
+- text C213
+- text C214
+- text C215
+- text C216
+- text C217
+- text C218
+- text C219
+- text C22
+- text C220
+- text C221
+- text C222
+- text C223
+- text C224
+- text C225
+- text C226
+- text C227
+- text C228
+- text C229
+- text C23
+- text C230
+- text C231
+- text C232
+- text C233
+- text C234
+- text C235
+- text C236
+- text C237
+- text C238
+- text C239
+- text C24
+- text C240
+- text C241
+- text C242
+- text C243
+- text C244
+- text C245
+- text C246
+- text C247
+- text C248
+- text C249
+- text C25
+- text C250
+- text C251
+- text C252
+- text C254
+- text C255
+- text C256
+- text C257
+- text C258
+- text C259
+- text C26
+- text C260
+- text C262
+- text C263
+- text C267
+- text C268
+- text C27
+- text C270
+- text C273
+- text C274
+- text C275
+- text C276
+- text C277
+- text C278
+- text C279
+- text C28
+- text C280
+- text C281
+- text C282
+- text C283
+- text C284
+- text C285
+- text C286
+- text C287
+- text C288
+- text C289
+- text C29
+- text C290
+- text C291
+- text C292
+- text C293
+- text C294
+- text C295
+- text C296
+- text C297
+- text C299
+- text C3
+- text C30
+- text C300
+- text C301
+- text C302
+- text C303
+- text C304
+- text C305
+- text C306
+- text C307
+- text C308
+- text C309
+- text C31
+- text C310
+- text C311
+- text C313
+- text C314
+- text C315
+- text C316
+- text C317
+- text C318
+- text C319
+- text C32
+- text C321
+- text C322
+- text C323
+- text C324
+- text C325
+- text C326
+- text C327
+- text C328
+- text C329
+- text C33
+- text C330
+- text C331
+- text C332
+- text C333
+- text C334
+- text C335
+- text C336
+- text C337
+- text C338
+- text C339
+- text C34
+- text C340
+- text C341
+- text C342
+- text C343
+- text C344
+- text C345
+- text C346
+- text C347
+- text C348
+- text C349
+- text C35
+- text C350
+- text C351
+- text C352
+- text C353
+- text C354
+- text C356
+- text C357
+- text C359
+- text C36
+- text C361
+- text C362
+- text C363
+- text C364
+- text C367
+- text C369
+- text C37
+- text C370
+- text C371
+- text C373
+- text C376
+- text C377
+- text C378
+- text C379
+- text C38
+- text C380
+- text C381
+- text C382
+- text C383
+- text C384
+- text C385
+- text C386
+- text C388
+- text C389
+- text C39
+- text C390
+- text C391
+- text C392
+- text C394
+- text C395
+- text C396
+- text C399
+- text C4
+- text C40
+- text C400
+- text C401
+- text C41
+- text C410
+- text C411
+- text C412
+- text C413
+- text C414
+- text C415
+- text C416
+- text C417
+- text C418
+- text C419
+- text C42
+- text C420
+- text C421
+- text C422
+- text C423
+- text C424
+- text C425
+- text C427
+- text C428
+- text C429
+- text C43
+- text C430
+- text C432
+- text C434
+- text C44
+- text C45
+- text C46
+- text C47
+- text C48
+- text C49
+- text C5
+- text C50
+- text C51
+- text C52
+- text C53
+- text C54
+- text C55
+- text C56
+- text C57
+- text C58
+- text C59
+- text C6
+- text C60
+- text C61
+- text C62
+- text C63
+- text C64
+- text C65
+- text C66
+- text C67
+- text C68
+- text C69
+- text C7
+- text C70
+- text C71
+- text C72
+- text C73
+- text C74
+- text C75
+- text C76
+- text C77
+- text C78
+- text C79
+- text C8
+- text C80
+- text C81
+- text C82
+- text C83
+- text C84
+- text C85
+- text C86
+- text C87
+- text C88
+- text C89
+- text C9
+- text C90
+- text C91
+- text C92
+- text C93
+- text C94
+- text C95
+- text C96
+- text C97
+- text C98
+- text C99
+- text CA7
+- text CAMERA
+- text CCLK
+- text CE
+- text CJ1
+- text CJ2
+- text CLK
+- text CN1
+- text CN2
+- text CN3
+- text CN4
+- text CN5
+- text CN6
+- text CN7
+- text CNA
+- text CNB
+- text COMMUNICATION
+- text CON2
+- text CON3
+- text CR1
+- text CR2
+- text CR4
+- text CR5
+- text CSn
+- text D
+- text D0
+- text D1
+- text D10
+- text D11
+- text D12
+- text D13
+- text D14
+- text D15
+- text D16
+- text D17
+- text D18
+- text D19
+- text D2
+- text D20
+- text D21
+- text D22
+- text D23
+- text D25
+- text D28
+- text D3
+- text D4
+- text D45
+- text D5
+- text D6
+- text D7
+- text D8
+- text D9
+- text DA1
+- text DA2
+- text DA28EA9
+- text DA3
+- text DDI
+- text DEV0
+- text DEV1
+- text DEVKIT
+- text DFU
+- text DIGILENT
+- text DIGITAL
+- text DIN
+- text DIP1
+- text DIP2
+- text DIR1
+- text DIR2
+- text DIR3
+- text DIR4
+- text DISPLAY
+- text DIW5
+- text DLL
+- text DONE
+- text DS1
+- text DS13
+- text DS2
+- text DS3
+- text DS4
+- text DS5
+- text DS6
+- text DSW1
+- text Diversity
+- text E
+- text E11
+- text E12
+- text E13
+- text E14
+- text E15
+- text E16
+- text E17
+- text E18
+- text E19
+- text E20
+- text E5
+- text ECTO
+- text EM1
+- text EM2
+- text EM3
+- text EM4
+- text EM5
+- text EM6
+- text EM7
+- text EM8
+- text EN1
+- text EN2
+- text EN3
+- text EN4
+- text EN5
+- text ENDSTOPS
+- text ERIAL
+- text ERRLED
+- text ERROR
+- text ET
+- text ETHERNET
+- text F
+- text F1
+- text F2
+- text FAN
+- text FB1
+- text FB2
+- text FB3
+- text FB4
+- text FB5
+- text FB6
+- text FB7
+- text FC1
+- text FC10
+- text FC11
+- text FC12
+- text FC13
+- text FC14
+- text FC15
+- text FC16
+- text FC17
+- text FC18
+- text FC19
+- text FC2
+- text FC21
+- text FC22
+- text FC24
+- text FC26
+- text FC27
+- text FC28
+- text FC29
+- text FC3
+- text FC30
+- text FC31
+- text FC32
+- text FC33
+- text FC34
+- text FC35
+- text FC36
+- text FC37
+- text FC38
+- text FC39
+- text FC4
+- text FC40
+- text FC41
+- text FC42
+- text FC44
+- text FC5
+- text FC6
+- text FC7
+- text FC8
+- text FC9
+- text FCC
+- text FE1
+- text FI12
+- text FIL
+- text FIL1
+- text FIL10
+- text FIL11
+- text FIL12
+- text FIL13
+- text FIL14
+- text FIL16
+- text FIL17
+- text FIL18
+- text FIL2
+- text FIL3
+- text FIL4
+- text FIL5
+- text FIL6
+- text FIL7
+- text FIL8
+- text FIL9
+- text FPGA
+- text FR000001
+- text FR8
+- text FRDM
+- text FU
+- text FUSE2
+- text FUSE3
+- text FUSE4
+- text G
+- text GND
+- text GOIO2
+- text GPIO
+- text GPIO1
+- text GPIO2
+- text GPIO3
+- text GPIO4
+- text H
+- text HDMI
+- text HI
+- text HSINK1
+- text HSINK2
+- text HSINK3
+- text HUMANDATA
+- text HYPERTRANSPORT
+- text I2C
+- text IC1
+- text IC10
+- text IC11
+- text IC12
+- text IC13
+- text IC14
+- text IC15
+- text IC16
+- text IC17
+- text IC18
+- text IC19
+- text IC2
+- text IC20
+- text IC21
+- text IC22
+- text IC23
+- text IC24
+- text IC3
+- text IC4
+- text IC5
+- text IC6
+- text IC7
+- text IC8
+- text IC9
+- text ICSP
+- text IN
+- text INHIB
+- text INIT
+- text INT1
+- text INT2
+- text IOREF
+- text IR1
+- text ISP
+- text J
+- text J1
+- text J10
+- text J11
+- text J12
+- text J13
+- text J14
+- text J15
+- text J16
+- text J17
+- text J18
+- text J19
+- text J199
+- text J2
+- text J20
+- text J21
+- text J22
+- text J23
+- text J24
+- text J25
+- text J26
+- text J27
+- text J3
+- text J30
+- text J32
+- text J4
+- text J5
+- text J6
+- text J7
+- text J8
+- text J9
+- text JN
+- text JP
+- text JP1
+- text JP11
+- text JP13
+- text JP15
+- text JP17
+- text JP18
+- text JP2
+- text JP20
+- text JP23
+- text JP24
+- text JP27
+- text JP28
+- text JP29
+- text JP3
+- text JP30
+- text JP31
+- text JP33
+- text JP34
+- text JP36
+- text JP4
+- text JP6
+- text JP7
+- text JP8
+- text JP9
+- text JT1
+- text JT2
+- text JT3
+- text JT4
+- text JT5
+- text JT6
+- text JTAG
+- text JX1
+- text JX2
+- text K
+- text K20
+- text K64
+- text K64F
+- text KEY1
+- text L
+- text L0
+- text L1
+- text L10
+- text L2
+- text L3
+- text L4
+- text L5
+- text L6
+- text L7
+- text L8
+- text L9
+- text LD1
+- text LD2
+- text LED0
+- text LED1
+- text LED11
+- text LED2
+- text LED3
+- text LED4
+- text LED5
+- text LED6
+- text LED7
+- text LO
+- text LOGO
+- text LTC
+- text Link Okay
+- text M
+- text M1
+- text M2
+- text M3
+- text M4
+- text M5
+- text MEGA
+- text MIN
+- text MO
+- text MODE
+- text MPA0
+- text MPA1
+- text MPA2
+- text MPA3
+- text MPA4
+- text MPA5
+- text MPA6
+- text MPBRDY
+- text MPCE
+- text MPD00
+- text MPD01
+- text MPD02
+- text MPD03
+- text MPD04
+- text MPD05
+- text MPD06
+- text MPD07
+- text MPD08
+- text MPD09
+- text MPD10
+- text MPD11
+- text MPD12
+- text MPD13
+- text MPD14
+- text MPD15
+- text MPIRQ
+- text MPOE
+- text MPWE
+- text MR2A16A
+- text MSEL1
+- text MicroZed
+- text N
+- text NC
+- text OFF
+- text OLIMEX
+- text ON
+- text ORTS
+- text OSHW
+- text OUT
+- text P
+- text P0244
+- text P1
+- text P10
+- text P11
+- text P12
+- text P13
+- text P14
+- text P15
+- text P16
+- text P17
+- text P18
+- text P19
+- text P2
+- text P20
+- text P21
+- text P22
+- text P23
+- text P24
+- text P25
+- text P26
+- text P27
+- text P28
+- text P29
+- text P3
+- text P30
+- text P31
+- text P32
+- text P33
+- text P34
+- text P35
+- text P36
+- text P37
+- text P38
+- text P39
+- text P4
+- text P40
+- text P41
+- text P42
+- text P43
+- text P44
+- text P45
+- text P46
+- text P47
+- text P49
+- text P5
+- text P50
+- text P51
+- text P52
+- text P53
+- text P6
+- text P7
+- text P8
+- text P9
+- text PAGU13039A0
+- text PC1
+- text PCIV
+- text PHY
+- text POT1
+- text POT2
+- text POT6
+- text POT7
+- text POT8
+- text POWER
+- text PP1
+- text PP10
+- text PP11
+- text PP12
+- text PP13
+- text PP2
+- text PP20
+- text PP21
+- text PP22
+- text PP23
+- text PP24
+- text PP25
+- text PP26
+- text PP27
+- text PP28
+- text PP3
+- text PP30
+- text PP35
+- text PP36
+- text PP39
+- text PP4
+- text PP40
+- text PP41
+- text PP42
+- text PP43
+- text PP44
+- text PP45
+- text PP46
+- text PP47
+- text PP48
+- text PP49
+- text PP5
+- text PP50
+- text PP51
+- text PP52
+- text PP53
+- text PP54
+- text PP55
+- text PP56
+- text PP57
+- text PP58
+- text PP59
+- text PP6
+- text PP60
+- text PP7
+- text PP8
+- text PP9
+- text PROG
+- text PROM
+- text PS1
+- text PWM
+- text PWM0
+- text PWR
+- text Primary
+- text Q1
+- text Q10
+- text Q2
+- text Q3
+- text Q4
+- text Q5
+- text Q6
+- text Q7
+- text Q8
+- text Q9
+- text QDR
+- text QR3
+- text R
+- text R1
+- text R10
+- text R100
+- text R101
+- text R102
+- text R103
+- text R104
+- text R105
+- text R106
+- text R107
+- text R108
+- text R109
+- text R11
+- text R110
+- text R111
+- text R112
+- text R113
+- text R114
+- text R115
+- text R116
+- text R117
+- text R118
+- text R119
+- text R12
+- text R120
+- text R121
+- text R122
+- text R123
+- text R124
+- text R125
+- text R126
+- text R127
+- text R128
+- text R129
+- text R13
+- text R130
+- text R131
+- text R132
+- text R133
+- text R134
+- text R135
+- text R136
+- text R137
+- text R138
+- text R139
+- text R14
+- text R140
+- text R141
+- text R142
+- text R143
+- text R144
+- text R145
+- text R146
+- text R147
+- text R148
+- text R149
+- text R15
+- text R150
+- text R151
+- text R152
+- text R153
+- text R154
+- text R155
+- text R156
+- text R157
+- text R158
+- text R159
+- text R16
+- text R160
+- text R161
+- text R162
+- text R163
+- text R164
+- text R165
+- text R166
+- text R167
+- text R168
+- text R169
+- text R17
+- text R170
+- text R171
+- text R172
+- text R173
+- text R174
+- text R175
+- text R176
+- text R177
+- text R178
+- text R179
+- text R18
+- text R180
+- text R181
+- text R182
+- text R183
+- text R184
+- text R185
+- text R186
+- text R187
+- text R188
+- text R189
+- text R19
+- text R190
+- text R191
+- text R192
+- text R193
+- text R194
+- text R195
+- text R196
+- text R197
+- text R198
+- text R199
+- text R2
+- text R20
+- text R200
+- text R201
+- text R202
+- text R203
+- text R204
+- text R205
+- text R206
+- text R207
+- text R208
+- text R209
+- text R21
+- text R210
+- text R211
+- text R212
+- text R213
+- text R214
+- text R215
+- text R216
+- text R217
+- text R218
+- text R219
+- text R22
+- text R220
+- text R221
+- text R222
+- text R223
+- text R224
+- text R225
+- text R226
+- text R227
+- text R228
+- text R229
+- text R23
+- text R230
+- text R231
+- text R232
+- text R233
+- text R234
+- text R236
+- text R237
+- text R238
+- text R239
+- text R24
+- text R240
+- text R241
+- text R242
+- text R243
+- text R244
+- text R245
+- text R246
+- text R247
+- text R248
+- text R249
+- text R25
+- text R250
+- text R251
+- text R252
+- text R253
+- text R254
+- text R255
+- text R256
+- text R257
+- text R258
+- text R259
+- text R26
+- text R260
+- text R261
+- text R262
+- text R263
+- text R264
+- text R265
+- text R266
+- text R267
+- text R268
+- text R269
+- text R27
+- text R270
+- text R271
+- text R272
+- text R273
+- text R274
+- text R275
+- text R276
+- text R277
+- text R278
+- text R279
+- text R28
+- text R280
+- text R281
+- text R282
+- text R283
+- text R284
+- text R285
+- text R286
+- text R287
+- text R288
+- text R289
+- text R29
+- text R290
+- text R291
+- text R292
+- text R293
+- text R294
+- text R295
+- text R296
+- text R297
+- text R3
+- text R30
+- text R302
+- text R303
+- text R304
+- text R305
+- text R306
+- text R308
+- text R31
+- text R310
+- text R311
+- text R312
+- text R32
+- text R320
+- text R322
+- text R325
+- text R33
+- text R331
+- text R332
+- text R333
+- text R338
+- text R34
+- text R344
+- text R346
+- text R349
+- text R35
+- text R351
+- text R352
+- text R353
+- text R354
+- text R355
+- text R358
+- text R359
+- text R36
+- text R361
+- text R363
+- text R364
+- text R365
+- text R366
+- text R367
+- text R368
+- text R369
+- text R37
+- text R370
+- text R372
+- text R374
+- text R376
+- text R38
+- text R380
+- text R385
+- text R386
+- text R388
+- text R389
+- text R39
+- text R390
+- text R391
+- text R392
+- text R394
+- text R396
+- text R398
+- text R399
+- text R4
+- text R40
+- text R400
+- text R401
+- text R402
+- text R403
+- text R404
+- text R405
+- text R406
+- text R408
+- text R41
+- text R411
+- text R412
+- text R413
+- text R414
+- text R415
+- text R416
+- text R417
+- text R418
+- text R419
+- text R42
+- text R420
+- text R421
+- text R422
+- text R423
+- text R424
+- text R425
+- text R426
+- text R427
+- text R428
+- text R429
+- text R43
+- text R430
+- text R432
+- text R434
+- text R436
+- text R438
+- text R44
+- text R440
+- text R441
+- text R442
+- text R446
+- text R447
+- text R45
+- text R450
+- text R452
+- text R456
+- text R458
+- text R46
+- text R460
+- text R461
+- text R462
+- text R463
+- text R464
+- text R465
+- text R466
+- text R468
+- text R47
+- text R470
+- text R471
+- text R472
+- text R473
+- text R474
+- text R475
+- text R479
+- text R48
+- text R486
+- text R487
+- text R488
+- text R489
+- text R49
+- text R490
+- text R493
+- text R494
+- text R495
+- text R496
+- text R5
+- text R50
+- text R501
+- text R503
+- text R505
+- text R506
+- text R51
+- text R511
+- text R512
+- text R513
+- text R514
+- text R515
+- text R517
+- text R518
+- text R519
+- text R52
+- text R521
+- text R522
+- text R523
+- text R524
+- text R525
+- text R528
+- text R529
+- text R53
+- text R530
+- text R532
+- text R533
+- text R534
+- text R536
+- text R54
+- text R55
+- text R56
+- text R57
+- text R58
+- text R59
+- text R6
+- text R60
+- text R61
+- text R62
+- text R63
+- text R64
+- text R65
+- text R66
+- text R67
+- text R68
+- text R69
+- text R7
+- text R70
+- text R71
+- text R72
+- text R73
+- text R74
+- text R75
+- text R76
+- text R77
+- text R78
+- text R79
+- text R8
+- text R80
+- text R81
+- text R82
+- text R83
+- text R84
+- text R85
+- text R86
+- text R87
+- text R88
+- text R89
+- text R9
+- text R90
+- text R91
+- text R92
+- text R93
+- text R94
+- text R95
+- text R96
+- text R97
+- text R98
+- text R99
+- text RC1
+- text RDWRn
+- text RE
+- text RESET
+- text RF
+- text RGB
+- text RICK
+- text RJ1
+- text RJ45
+- text RM1
+- text RM2
+- text RM3
+- text RM4
+- text RM5
+- text RM6
+- text RM7
+- text RM8
+- text RN1
+- text RNETW1
+- text RNETW3
+- text RNETW4
+- text RNETW6
+- text RNETW7
+- text RNETW8
+- text RNEYW18
+- text RP1
+- text RP2
+- text RP3
+- text RP4
+- text RP5
+- text RS232
+- text RS232RX
+- text RS232TX
+- text RST
+- text RUN
+- text RX
+- text RX0
+- text Reset
+- text S22
+- text SA
+- text SDA
+- text SELECTMAP
+- text SH1
+- text SHTDW
+- text SHU
+- text SJ1
+- text SJ2
+- text SK1
+- text SK2
+- text SK3
+- text SL
+- text SM1
+- text SM2
+- text SM3
+- text SM4
+- text SP
+- text ST1
+- text ST2
+- text ST3
+- text ST4
+- text ST5
+- text STATLED
+- text STATUS
+- text STRT
+- text SW0
+- text SW1
+- text SW10
+- text SW11
+- text SW12
+- text SW2
+- text SW3
+- text SW4
+- text SW5
+- text SW6
+- text SW7
+- text SW8
+- text SW9
+- text SYSTEM
+- text Serial
+- text Speed
+- text SysACE
+- text SysAce
+- text SystemAce
+- text T
+- text T1
+- text T10
+- text T11
+- text T27
+- text T28
+- text T29
+- text T30
+- text T31
+- text T32
+- text T33
+- text T34
+- text T5
+- text T7
+- text TCK
+- text TDI
+- text TDO
+- text TM
+- text TMS
+- text TP1
+- text TP10
+- text TP11
+- text TP12
+- text TP13
+- text TP14
+- text TP15
+- text TP16
+- text TP17
+- text TP2
+- text TP23
+- text TP24
+- text TP25
+- text TP3
+- text TP4
+- text TP5
+- text TP6
+- text TP7
+- text TP8
+- text TP9
+- text TP99
+- text TPG
+- text TPG1
+- text TPG2
+- text TPG3
+- text TPG4
+- text TR1
+- text TRA1
+- text TRIANGLE
+- text TRS
+- text TSTJ1
+- text TV51
+- text TVS2
+- text TVS3
+- text TX
+- text TX0
+- text Thermistor
+- text U
+- text U1
+- text U10
+- text U11
+- text U12
+- text U13
+- text U14
+- text U15
+- text U16
+- text U17
+- text U18
+- text U19
+- text U2
+- text U20
+- text U21
+- text U22
+- text U23
+- text U24
+- text U25
+- text U26
+- text U27
+- text U28
+- text U29
+- text U3
+- text U30
+- text U31
+- text U33
+- text U4
+- text U5
+- text U6
+- text U7
+- text U8
+- text U9
+- text UART
+- text UEXT
+- text USB
+- text USBC
+- text USER1
+- text USER2
+- text USER3
+- text USER4
+- text USER5
+- text USER6
+- text USR
+- text V
+- text V2P
+- text VBB
+- text VCC
+- text VCCAUX
+- text VCCINT
+- text VCCO
+- text VCORE
+- text VIN
+- text VIRTEX5
+- text VR1
+- text VR2
+- text VR3
+- text VR4
+- text VR5
+- text VSYS
+- text Vin
+- text Vrough
+- text W
+- text WN
+- text X
+- text X1
+- text X1012
+- text X13
+- text X2
+- text X3
+- text X4
+- text X5
+- text X6
+- text XC2VP20FF1152
+- text XCONFIG
+- text XILINX
+- text XJ1
+- text XJ2
+- text XT01
+- text XT1
+- text XTAL1
+- text Y
+- text Y1
+- text Y1o
+- text Y2
+- text Y20
+- text Y3
+- text YIG
+- text Z1
+- text Z2
+- text Z3
+- text Z4
+- text Z5
+- text ZQ
+- text ZREF1
+- text e
+- text triangle
+- text uSD
+- transformer TR1
+- transistor Q1 -FAM 323-
+- transistor Q1
+- transistor Q10
+- transistor Q2
+- transistor Q3
+- transistor Q4 -FTZ 869-
+- transistor Q4
+- transistor Q5
+- transistor Q6
+- transistor Q7
+- transistor Q8
+- transistor Q9
+- transistor QR3
+- transistor T1
+- transistor T10
+- transistor T11
+- transistor T27
+- transistor T28
+- transistor T29
+- transistor T30
+- transistor T31
+- transistor T32
+- transistor T33
+- transistor T34
+- transistor T5
+- transistor T7
+- transistor UNKNOWN
+- transistor unknown
+- transistor
+- unknown EM1
+- unknown L1
+- unknown L2
+- unknown L3
+- unknown L4
+- unknown PS1
+- unknown RP1
+- unknown SK1
+- unknown SK2
+- unknown SK3
+- unknown U1
+- unknown U10
+- unknown U15
+- unknown U16
+- unknown U18
+- unknown U4
+- unknown U5
+- unknown U6
+- unknown U7
+- unknown U9
+- unknown UNKNOWN
+- unknown UNLABELED
+- unknown Z3
+- unknown Z4
+- unknown Z5
+- unknown unknown
+- unknown
+nc: 4495
+roboflow:
+  license: CC BY 4.0
+  project: pcb-components-djhuq
+  url: https://universe.roboflow.com/nchowdarym/pcb-components-djhuq/dataset/1495
+  version: 1495
+  workspace: nchowdarym
+test: test/images
+train: train/images
+val: valid/images

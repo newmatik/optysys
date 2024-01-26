@@ -1,0 +1,4 @@
+ssh tpsys@tpsys-5
+pass: mydata
+
+run `go` 
