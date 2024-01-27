@@ -1,5 +1,4 @@
 # Optysys
-
 This repo has 3 parts to it:
   - Interface of motors and cameras with PS5
   - GUI
@@ -7,32 +6,42 @@ This repo has 3 parts to it:
   
 I recommend running the python files in the folder it is placed in. A lot of places have relative path references. 
 
+# Pre-requisite
+Python version: 3.11.7 or greater
 
 
-
+Install the requirements.txt 
+```
+pip install -r requirements.txt
+```
+or if you use conda environment
+```
+conda install --file requirements.txt
+```
 
 
 ### Interface with PS5
 Motor and camera are interfaced with the PS5. 
-Everything is within the filder PS5 interface.
+Everything is within the folder PS5 interface.
 
 Run using
 ```
 python main_interface.py
 ```
+The serial port might have to be changed. This can be changed in the utils file (Mentioned below)
 
-For individual camera interface with joystick, motor interface with joystick, use scripting begining with 'camera_ ' and 'motor_ ' repsectively. 
+For individual camera interface with joystick, motor interface with joystick, use scripting beginning with 'camera_' and 'motor_' repsectively. Care must be taken that the correct Serial Port is set manually in these files so that the above python file runs. 
 
 
-The utils folder contains the main functions required to control the motor and Camera. Care must be taken that the correct Serial Port is set manually in these files so that the above python file runs. 
+The utils folder contains the main functions required to control the motor and Camera. 
 
 
 The prep_code folder contains the intial codes for each interface. You can check the joystick buttons numbering using *joystick_interface.py*. The motor interface debugging code can also be found in the same folder. 
 
 
 ### GUI 
-The folder name is gui_understanding. 
-Use _final_gui_v2.py_ for viewing with one camera (Webcam) and _final_gui_v3.py_ for 2 camera display (Webcam and OpenCV camera). 
+Code related to this is in the folder gui_understanding. Within this folder, you will find the following codes in *final_gui_v2.py* and *final_gui_v3.py*
+Use *final_gui_v2.py* for viewing with one camera (Webcam) and *final_gui_v3.py* for 2 camera display (Webcam and OpenCV camera). 
 
 The prep_code folder within this folder contains intermediate codes to acheive the UI in decided format(refer PPT). 
 
